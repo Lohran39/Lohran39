@@ -38,6 +38,7 @@ Gosto de criar soluções que resolvem problemas reais, com foco em eficiência 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [🤖 AI Support Backend FastAPI](https://github.com/Lohran39/AI-Support-Backend---FastAPI) | API de atendimento inteligente com webhook, classifica intenções e salva histórico no MongoDB | Python, FastAPI, MongoDB, IA |
 | [🤖 English AI Teacher Bot](https://github.com/Lohran39/English_AI_Teacher_Bot) | Bot com IA para ensino de inglês, mantém contexto e atua como professor particular | Python, IA |
 | [📂 Bot de Monitoramento de Arquivos](https://github.com/Lohran39/Bot-de-Monitoramento-e-Processamento-de-Arquivos) | Detecta novos arquivos .xlsx, processa dados e envia notificações automáticas | Python |
 | [🗄️ Automação de Cadastro](https://github.com/Lohran39/Automacao_de_cadrasto) | Automação de cadastro de dados com Python | Python |
