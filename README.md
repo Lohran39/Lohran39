@@ -2,7 +2,8 @@
 
 # Olá, eu sou Lohran Lira 👋
 
-### Full Stack Developer | Python | PHP | Automação com IA
+### Full Stack Developer | Python | PHP | Node | React 
+Automação com IA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lohran-lira-)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lohran39)
