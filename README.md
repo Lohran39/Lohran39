@@ -1,20 +1,16 @@
 <div align="center">
-
 # Olá, eu sou Lohran Lira 👋
-
-### Desenvolvedor de Software Júnior | Backend | Automação com IA
-
+### Full Stack Developer | Python | Automação com IA
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lohran-lira-)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lohran39)
-
 </div>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor backend apaixonado por **automação**, **APIs REST** e **Inteligência Artificial**.
-Gosto de criar soluções que resolvem problemas reais, com foco em eficiência e escalabilidade.
+Sou desenvolvedor full stack apaixonado por **automação**, **APIs REST** e **Inteligência Artificial**.
+Gosto de criar soluções completas que resolvem problemas reais, com foco em eficiência e escalabilidade.
 
 - 🌍 Baseado em **Rio de Janeiro, Brasil**
 - 💼 Aberto a oportunidades de trabalho
@@ -25,13 +21,26 @@ Gosto de criar soluções que resolvem problemas reais, com foco em eficiência 
 
 ## 🛠️ Tech Stack
 
+**Backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+
+**Banco de Dados:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend:**
+![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**DevOps & Automação:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Dados:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -55,7 +64,6 @@ Gosto de criar soluções que resolvem problemas reais, com foco em eficiência 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lohran39&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohran39&layout=compact&theme=dark&hide_border=true)
 
 </div>
@@ -64,6 +72,6 @@ Gosto de criar soluções que resolvem problemas reais, com foco em eficiência 
 
 <div align="center">
 
-💬 *"Automatizar o que é repetitivo para focar no que importa."*
+💬 *"Criar soluções que fazem a diferença, do backend ao frontend."*
 
 </div>
