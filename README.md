@@ -17,7 +17,7 @@ Automação com IA
 Sou desenvolvedor full stack apaixonado por **automação**, **APIs REST**, **Inteligência Artificial** e **segurança**.
 Gosto de criar soluções completas que resolvem problemas reais, do backend escalável até interfaces intuitivas, com foco em eficiência e qualidade.
 
-- 🌍 Baseado em **Rio de Janeiro, Brasil**
+- 🌍 **Rio de Janeiro, Brasil**
 - 💼 Aberto a oportunidades de trabalho
 - 🤖 Explorando o mundo de **IA e LLMs**
 - 📚 Sempre aprendendo algo novo
